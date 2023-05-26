@@ -121,6 +121,7 @@ const generator: GroupGenerator = {
           "arnetheduck.eth": 1,
           "github:zilm13": 1,
           "0x93F67f972C0Dd8D25990253aBC23A12545f74448": 1,
+          "0x059902ededf46e87614e5b8f785f56a895b1c2d0":1,
           "github:paulhauner": 1,
           "github:iamhsk": 1,
           "0x068484F7BD2b7D7C5a698d89e75ddcaf3a92B879": 1,
